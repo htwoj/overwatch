@@ -4,7 +4,8 @@
 ## 설명
 - HTML/CSS만 사용한 오버워치 캐릭터 선택 페이지 구현
 - 각 이미지에 마우스 오버(hover) 시, 효과 적용
-- [DEMO 페이지로 이동](https://magnificent-biscuit-da63e8.netlify.app)
+- <a href="https://magnificent-biscuit-da63e8.netlify.app" target="_blank">DEMO 페이지로 이동</a>
+![preview](./image/preview.png)
 
 **index.html**
 - reset.min.css 사용으로 브라우저 css 초기화
