@@ -7,6 +7,7 @@
 - <a href="https://magnificent-biscuit-da63e8.netlify.app" target="_blank">DEMO 페이지로 이동</a>
 ![preview](./image/preview.png)
 
+## 주요 파일/폴더
 **index.html**
 - reset.min.css 사용으로 브라우저 css 초기화
 - 각 이미지는 div 태그로 묶여짐  
